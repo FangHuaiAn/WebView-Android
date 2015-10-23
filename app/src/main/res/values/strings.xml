@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WebViewInteraction</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_load_from_web">Load From Web</string>
+    <string name="title_activity_load_local_html">Load Local Html</string>
+    <string name="title_activity_java_script_interaction">JavaScript Interaction</string>
+</resources>
